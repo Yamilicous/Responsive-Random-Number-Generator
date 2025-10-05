@@ -9,6 +9,6 @@ reset.onclick=function(){
 }
 
 randomize.onclick=function(){
-    count=Math.floor(Math.random()*100);
+    count=Math.floor(Math.random()*101);
     countlabel.textContent=count;
 }
